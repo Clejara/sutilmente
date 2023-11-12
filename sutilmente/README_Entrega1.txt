@@ -1,0 +1,1 @@
+Para ejecutar el sitio, se debe ejecutar "npm start" en la carpeta del proyecto.

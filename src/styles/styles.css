@@ -1,0 +1,51 @@
+.carousel-image {
+  height: 80vh;
+  margin: 0 auto;
+  flex-direction: row;
+}
+
+.navegador {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  height: 100px;
+}
+
+.navegador2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  height: 100px;
+  background-color: #debb95;
+}
+
+.gallery-container {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gallery-image {
+  padding: 15px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+
+#quienes-half-color {
+  background: linear-gradient(
+    to top,
+    #ffffff 0%,
+    #ffffff 45%,
+    #debb95 45%,
+    #debb95 100%
+  );
+} 
+/* .navbar-toggler {
+  color: white;
+} */
